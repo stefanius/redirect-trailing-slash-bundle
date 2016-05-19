@@ -12,6 +12,6 @@
         "php": ">=5.5"
     },
     "autoload": {
-        "psr-4": { "Stef\\RedirectTrailingSlashBundle\\": "src/Stefanius/RedirectTrailingSlashBundle/" }
+        "psr-4": { "Stefanius\\RedirectTrailingSlashBundle\\": "src/Stefanius/RedirectTrailingSlashBundle/" }
     }
 }
