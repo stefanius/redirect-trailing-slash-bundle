@@ -1,5 +1,5 @@
 {
-    "name": "stef/redirect-trailing-slash-bundle",
+    "name": "stefanius/redirect-trailing-slash-bundle",
     "description": "Redirect all URL's to a non-trailing slash URL",
     "authors": [
         {
@@ -9,9 +9,9 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "php": ">=5.4"
+        "php": ">=5.5"
     },
     "autoload": {
-        "psr-4": { "Stef\\RedirectTrailingSlashBundle\\": "src/Stef/RedirectTrailingSlashBundle/" }
+        "psr-4": { "Stef\\RedirectTrailingSlashBundle\\": "src/Stefanius/RedirectTrailingSlashBundle/" }
     }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace Stef\RedirectTrailingSlashBundle\DependencyInjection;
+namespace Stefanius\RedirectTrailingSlashBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;
